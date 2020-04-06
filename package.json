@@ -1,0 +1,18 @@
+{
+  "name": "regrade3.online",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabsprates/regrade3.online.git",
+  "author": "Gabriel Prates <gabsprates@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "sass": "./node_modules/.bin/gulp sass-watch"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  }
+}
